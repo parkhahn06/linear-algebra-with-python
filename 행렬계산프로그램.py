@@ -1,3 +1,7 @@
+#오늘은 RRA와 REF, RREF matrix구하는것까지 구현했습니다
+#정수해에 대해서 잘 작동하는것을 확인하였습니다
+#2025/6/21
+
 import sys
 import numpy as np
 input=sys.stdin.readline
